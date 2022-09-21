@@ -1,0 +1,19 @@
+.ca {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background:rgb(103, 93, 93);
+    overflow: hidden;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+    text-align: center;
+    margin:auto;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.trai {
+    padding-top: 20px;
+
+}
+.desc{
+    padding-top: 20px;
+}
